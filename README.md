@@ -9,8 +9,8 @@ The dataset for this project is extracted from kaggle (link below) with all the 
 #### Link- https://www.kaggle.com/jackdaoud/marketing-data
 
 ### Dataset Features
-ID: Customer's unique identifier
-Year_Birth: Customer's birth year
+* ID: Customer's unique identifier
+* Year_Birth: Customer's birth year
 Education: Customer's education level
 Marital_Status: Customer's marital status
 Income: Customer's yearly household income
