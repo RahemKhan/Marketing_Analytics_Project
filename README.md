@@ -42,6 +42,6 @@ The dataset for this project is extracted from kaggle (link below) with all the 
 
 * 1- Extracting, Assessing and Cleaning of the data
 * 2- Performed Exploratory data analysis
-3- Performing Statistical Analysis
-4- Visulaise the data and conduct furhter analysis
-5- Forming insights and provide a data-driven solutions
+* 3- Performing Statistical Analysis
+* 4- Visulaise the data and conduct furhter analysis
+* 5- Forming insights and provide a data-driven solutions
